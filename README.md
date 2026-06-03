@@ -3,8 +3,8 @@
 
 ## שלב א' - התקנות
 1. ודאו שיש לכם [**VSCODE**](https://code.visualstudio.com/Download) על המחשב (גם [**PYCHRAM**](https://www.jetbrains.com/pycharm/download/?section=windows) עובד, מי שמאוד אוהב ומעדיף- עד השלב האחרון אפשר לעבוד גם ב[**גוגל קולאב**](https://colab.research.google.com/)).
-2. תוודא שיש לכם [**פייתון**](https://www.python.org/downloads/release/python-3145/) מותקן.
-3. תוודאו שב**VSCODE** יש לכם את כל הextensions של [**Jupyter**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter).
+2. ודאו שיש לכם [**פייתון**](https://www.python.org/downloads/release/python-3145/) מותקן.
+3. ודאו שב**VSCODE** יש לכם את כל הextensions של [**Jupyter**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter).
 4. ב**VSCODE** תעשו clone לריפו הזה.
 5. גשו לטרמינל ב**VSCODE** והריצו את הפקודה הבאה:
 ```
